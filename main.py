@@ -5,4 +5,5 @@ customtkinter.set_default_color_theme("blue")
 
 app = customtkinter.CTk()
 app.geometry("720x480")
+app.title("Color Picker Tool")
 app.mainloop()
